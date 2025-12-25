@@ -7,9 +7,9 @@ const App = () => {
     <div>
       <Navbar />
       <Card />
-      <Card />
     </div>
   );
 };
+
 
 export default App;
